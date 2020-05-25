@@ -1,8 +1,8 @@
-# Just-Dial-Scrapping using bs4
+# Just-Dial-Scrapping using Beautiful Soup (bs4)
 # Install the required dependencies 
-## Beautiful-soup ||
-## urllib ||
-## requests || 
+## Beautiful-soup 
+## urllib 
+## requests 
 ## request
 # Just change the URL and CSV file name inside the main file (scrapping.py)
 # And run using the following command
